@@ -465,7 +465,7 @@ function App() {
                 </tbody>
               </table>
             </div>
-            <div id="idCar" className="idDisplay transformCar" style={{float: 'right', paddingLeft: '15px'}}>
+            <div id="idCar" className="idDisplay transformCar" style={{float: 'right'}}>
               <img className="mobCar" src={car} alt="triangle" />
             </div>
           </div>
