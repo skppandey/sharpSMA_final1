@@ -566,8 +566,8 @@ h2:after {
   float: left;
 }
 .mobCar {
-  width: 550px;
-  padding-top: 100px;
+  width: 500px;
+  padding-top: 150px;
 }
 @media (max-width: 768px) {
   .mobTable {
